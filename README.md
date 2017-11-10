@@ -1,0 +1,2 @@
+# monerogo
+go library
