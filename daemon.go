@@ -1,4 +1,5 @@
 // Copyright 2017 Marin Basic <marin@marin-basic.com>. All rights reserved.
+// Copyright SerHack
 // Use of this source code is governed by a MIT-style
 // license that can be found in the LICENSE file.
 package monerogo
