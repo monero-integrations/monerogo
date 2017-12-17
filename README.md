@@ -1,5 +1,7 @@
 # monerogo
 
+# OLD! Use https://github.com/sunrisedo/monero
+
 # Description
 Monero JSON RPC Client
 
